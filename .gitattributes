@@ -1,1 +1,2 @@
-example/** linguist-vendored
+example/*.html linguist-vendored
+example/*.css linguist-vendored
