@@ -1,6 +1,4 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// The Web Components Library
 library;
 
 export 'src/base.dart';
