@@ -5,13 +5,6 @@ import 'package:web/web.dart';
 import 'dart:js_interop';
 import 'dart:js_interop_unsafe';
 
-@JSExport()
-class MyComponent extends wc.HTMLElementWrapper {
-  MyComponent() : super();
-
-  // factory MyComponent.created() => document.createElement('mycomp') as MyComponent;
-}
-
 @JS('Object.constructor')
 external JSFunction constructor(JSObject object);
 
