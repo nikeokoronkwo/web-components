@@ -5,4 +5,5 @@ This package represents an API for making/creating web components in the Dart pr
 
 
 ## Issues
-Web Components isn't
+Web Components isn't fully suitable for Dart yet. 
+Follow the issue here: dartlang/web#222
