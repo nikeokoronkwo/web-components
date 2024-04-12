@@ -1,5 +1,5 @@
-name: webcomponents
-description: A starting point for Dart libraries or applications.
+name: dart_web_components
+description: Build Modern and Standard Web Components in Dart!
 version: 0.0.1-pre
 repository: https://github.com/quetzalframework/web-components
 

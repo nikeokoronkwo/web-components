@@ -6,10 +6,10 @@ environment:
 dependencies:
   js: ^0.7.1
   web: ^0.5.1
-  webcomponents: any
+  dart_web_components: any
 
 dependency_overrides:
-  webcomponents:
+  dart_web_components:
     path: ..
 
 dev_dependencies:
