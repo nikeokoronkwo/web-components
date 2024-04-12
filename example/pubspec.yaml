@@ -6,10 +6,10 @@ environment:
 dependencies:
   js: ^0.7.1
   web: ^0.5.1
-  web_components: any
+  webcomponents: any
 
 dependency_overrides:
-  web_components:
+  webcomponents:
     path: ..
 
 dev_dependencies:

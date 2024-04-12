@@ -1,10 +1,10 @@
-name: web_components
+name: webcomponents
 description: A starting point for Dart libraries or applications.
 version: 0.0.1-pre
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/quetzalframework/web-components
 
 environment:
-  sdk: ^3.3.1
+  sdk: ^3.3.0
 
 # Add regular dependencies here.
 dependencies:
